@@ -1,0 +1,6 @@
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\bin\Debug\spark.exe.config
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\bin\Debug\spark.exe
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\bin\Debug\spark.pdb
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\obj\Debug\spark.csprojResolveAssemblyReference.cache
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\obj\Debug\spark.exe
+c:\users\jaide\documents\visual studio 2015\Projects\spark\spark\obj\Debug\spark.pdb
